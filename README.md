@@ -87,9 +87,5 @@ Check out the `Example_md` folder for a sample Markdown file demonstrating vario
 
 - **Frontend**: React + Vite
 - **Backend**: Tauri (Rust)
-- **Editor**: CodeMirror 6
-- **Markdown**: react-markdown + remark-gfm
 
----
-
-Made with ❤️ by [Simangka](https://github.com/Simangka)
+-------------------------------------------
