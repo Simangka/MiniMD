@@ -11,7 +11,6 @@ A clean, lightweight Markdown file viewer and editor built with Tauri + React. O
 - **Live Preview** - See your formatted Markdown in real-time
 - **Light & Dark Mode** - Work comfortably in any lighting condition
 - **GFM Support** - GitHub Flavored Markdown, tables, task lists, and more
-- **Math Support** - LaTeX math equations via KaTeX
 - **Open Files** - Open any `.md` file from your computer
 - **Save Files** - Save your changes back to disk
 
